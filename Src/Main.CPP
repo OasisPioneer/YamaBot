@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[])
 {
-	const std::string BotToken = "7491395783:AAHDyV70HZlDNKK5IDFfK0irgQWQLBIhOHs";
+	const std::string BotToken = "";
 
 	MessageProcessingCenter Bot;
 	Bot.Run(BotToken);
