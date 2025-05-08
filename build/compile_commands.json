@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/oasis-pioneer/文档/MyProjects/YamaBot/build",
+  "command": "/usr/bin/g++  -I/home/oasis-pioneer/文档/MyProjects/YamaBot/Include -g -std=gnu++17 -o CMakeFiles/YamaBot.dir/Src/Main.CPP.o -c /home/oasis-pioneer/文档/MyProjects/YamaBot/Src/Main.CPP",
+  "file": "/home/oasis-pioneer/文档/MyProjects/YamaBot/Src/Main.CPP",
+  "output": "CMakeFiles/YamaBot.dir/Src/Main.CPP.o"
+},
+{
+  "directory": "/home/oasis-pioneer/文档/MyProjects/YamaBot/build",
+  "command": "/usr/bin/g++  -I/home/oasis-pioneer/文档/MyProjects/YamaBot/Include -g -std=gnu++17 -o CMakeFiles/YamaBot.dir/Src/MessageProcessingCenter.CPP.o -c /home/oasis-pioneer/文档/MyProjects/YamaBot/Src/MessageProcessingCenter.CPP",
+  "file": "/home/oasis-pioneer/文档/MyProjects/YamaBot/Src/MessageProcessingCenter.CPP",
+  "output": "CMakeFiles/YamaBot.dir/Src/MessageProcessingCenter.CPP.o"
+},
+{
+  "directory": "/home/oasis-pioneer/文档/MyProjects/YamaBot/build",
+  "command": "/usr/bin/g++  -I/home/oasis-pioneer/文档/MyProjects/YamaBot/Include -g -std=gnu++17 -o CMakeFiles/YamaBot.dir/Src/InstructionSet.CPP.o -c /home/oasis-pioneer/文档/MyProjects/YamaBot/Src/InstructionSet.CPP",
+  "file": "/home/oasis-pioneer/文档/MyProjects/YamaBot/Src/InstructionSet.CPP",
+  "output": "CMakeFiles/YamaBot.dir/Src/InstructionSet.CPP.o"
+}
+]

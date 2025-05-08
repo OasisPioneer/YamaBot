@@ -1,0 +1,3 @@
+/home/oasis-pioneer/文档/MyProjects/YamaBot/build/CMakeFiles/YamaBot.dir
+/home/oasis-pioneer/文档/MyProjects/YamaBot/build/CMakeFiles/edit_cache.dir
+/home/oasis-pioneer/文档/MyProjects/YamaBot/build/CMakeFiles/rebuild_cache.dir
