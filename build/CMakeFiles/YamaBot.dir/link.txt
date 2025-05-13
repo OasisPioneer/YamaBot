@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/YamaBot.dir/Src/Main.CPP.o CMakeFiles/YamaBot.dir/Src/MessageProcessingCenter.CPP.o CMakeFiles/YamaBot.dir/Src/InstructionSet.CPP.o -o YamaBot  -Wl,-rpath,/usr/local/lib /usr/local/lib/libcurl.so.4.8.0 
